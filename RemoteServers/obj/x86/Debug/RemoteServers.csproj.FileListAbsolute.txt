@@ -1,0 +1,358 @@
+e:\users\administrator\documents\visual studio 2010\Projects\RemoteServers\RemoteServers\bin\Debug\RemoteServers.exe
+e:\users\administrator\documents\visual studio 2010\Projects\RemoteServers\RemoteServers\bin\Debug\RemoteServers.pdb
+e:\users\administrator\documents\visual studio 2010\Projects\RemoteServers\RemoteServers\bin\Debug\ControlDashboard.exe
+e:\users\administrator\documents\visual studio 2010\Projects\RemoteServers\RemoteServers\bin\Debug\ControlDashboard.pdb
+e:\users\administrator\documents\visual studio 2010\Projects\RemoteServers\RemoteServers\obj\x86\Debug\ResolveAssemblyReference.cache
+e:\users\administrator\documents\visual studio 2010\Projects\RemoteServers\RemoteServers\obj\x86\Debug\MainWindow.baml
+e:\users\administrator\documents\visual studio 2010\Projects\RemoteServers\RemoteServers\obj\x86\Debug\MainWindow.g.cs
+e:\users\administrator\documents\visual studio 2010\Projects\RemoteServers\RemoteServers\obj\x86\Debug\App.g.cs
+e:\users\administrator\documents\visual studio 2010\Projects\RemoteServers\RemoteServers\obj\x86\Debug\RemoteServers_MarkupCompile.cache
+e:\users\administrator\documents\visual studio 2010\Projects\RemoteServers\RemoteServers\obj\x86\Debug\RemoteServers.g.resources
+e:\users\administrator\documents\visual studio 2010\Projects\RemoteServers\RemoteServers\obj\x86\Debug\RemoteServers.Properties.Resources.resources
+e:\users\administrator\documents\visual studio 2010\Projects\RemoteServers\RemoteServers\obj\x86\Debug\GenerateResource.read.1.tlog
+e:\users\administrator\documents\visual studio 2010\Projects\RemoteServers\RemoteServers\obj\x86\Debug\GenerateResource.write.1.tlog
+e:\users\administrator\documents\visual studio 2010\Projects\RemoteServers\RemoteServers\obj\x86\Debug\RemoteServers.exe
+e:\users\administrator\documents\visual studio 2010\Projects\RemoteServers\RemoteServers\obj\x86\Debug\RemoteServers.pdb
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.1.1\RemoteServers\obj\x86\Debug\RemoteServers.exe
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.1.1\RemoteServers\obj\x86\Debug\RemoteServers.pdb
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.1.1\RemoteServers\bin\Debug\RemoteServers.exe
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.1.1\RemoteServers\bin\Debug\RemoteServers.pdb
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.1.1\RemoteServers\bin\Debug\ControlDashboard.exe
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.1.1\RemoteServers\bin\Debug\ControlDashboard.pdb
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.1.1\RemoteServers\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.1.1\RemoteServers\obj\x86\Debug\MainWindow.baml
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.1.1\RemoteServers\obj\x86\Debug\MainWindow.g.cs
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.1.1\RemoteServers\obj\x86\Debug\App.g.cs
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.1.1\RemoteServers\obj\x86\Debug\RemoteServers_MarkupCompile.cache
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.1.1\RemoteServers\obj\x86\Debug\RemoteServers.g.resources
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.1.1\RemoteServers\obj\x86\Debug\RemoteServers.Properties.Resources.resources
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.1.1\RemoteServers\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.1.1\RemoteServers\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.1.2\RemoteServers\obj\x86\Debug\RemoteServers.exe
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.1.2\RemoteServers\obj\x86\Debug\RemoteServers.pdb
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.1.2\RemoteServers\bin\Debug\RemoteServers.exe
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.1.2\RemoteServers\bin\Debug\RemoteServers.pdb
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.1.2\RemoteServers\bin\Debug\ControlDashboard.exe
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.1.2\RemoteServers\bin\Debug\ControlDashboard.pdb
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.1.2\RemoteServers\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.1.2\RemoteServers\obj\x86\Debug\MainWindow.baml
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.1.2\RemoteServers\obj\x86\Debug\MainWindow.g.cs
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.1.2\RemoteServers\obj\x86\Debug\App.g.cs
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.1.2\RemoteServers\obj\x86\Debug\RemoteServers_MarkupCompile.cache
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.1.2\RemoteServers\obj\x86\Debug\RemoteServers.g.resources
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.1.2\RemoteServers\obj\x86\Debug\RemoteServers.Properties.Resources.resources
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.1.2\RemoteServers\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.1.2\RemoteServers\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.2.0\RemoteServers\obj\x86\Debug\RemoteServers.exe
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.2.0\RemoteServers\obj\x86\Debug\RemoteServers.pdb
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.2.1\RemoteServers\obj\x86\Debug\RemoteServers.exe
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.2.1\RemoteServers\obj\x86\Debug\RemoteServers.pdb
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.2.1\RemoteServers\bin\Debug\RemoteServers.exe
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.2.1\RemoteServers\bin\Debug\RemoteServers.pdb
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.2.1\RemoteServers\bin\Debug\ControlDashboard.exe
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.2.1\RemoteServers\bin\Debug\ControlDashboard.pdb
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.2.1\RemoteServers\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.2.1\RemoteServers\obj\x86\Debug\MainWindow.baml
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.2.1\RemoteServers\obj\x86\Debug\MainWindow.g.cs
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.2.1\RemoteServers\obj\x86\Debug\App.g.cs
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.2.1\RemoteServers\obj\x86\Debug\RemoteServers_MarkupCompile.cache
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.2.1\RemoteServers\obj\x86\Debug\RemoteServers.g.resources
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.2.1\RemoteServers\obj\x86\Debug\RemoteServers.Properties.Resources.resources
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.2.1\RemoteServers\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.2.1\RemoteServers\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.3.0\RemoteServers\obj\x86\Debug\RemoteServers.exe
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.3.0\RemoteServers\obj\x86\Debug\RemoteServers.pdb
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.3.0\RemoteServers\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.3.0\RemoteServers\obj\x86\Debug\MainWindow.baml
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.3.0\RemoteServers\obj\x86\Debug\MainWindow.g.cs
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.3.0\RemoteServers\obj\x86\Debug\App.g.cs
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.3.0\RemoteServers\obj\x86\Debug\RemoteServers_MarkupCompile.cache
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.3.0\RemoteServers\obj\x86\Debug\RemoteServers.g.resources
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.3.0\RemoteServers\obj\x86\Debug\RemoteServers.Properties.Resources.resources
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.3.0\RemoteServers\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.3.0\RemoteServers\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.3.0\RemoteServers\bin\Debug\RemoteServers.exe
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.3.0\RemoteServers\bin\Debug\RemoteServers.pdb
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.3.0\RemoteServers\bin\Debug\ControlDashboard.exe
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.3.0\RemoteServers\bin\Debug\ControlDashboard.pdb
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.3.2\RemoteServers\obj\x86\Debug\RemoteServers.exe
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.3.2\RemoteServers\obj\x86\Debug\RemoteServers.pdb
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.3.2\RemoteServers\bin\Debug\RemoteServers.exe
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.3.2\RemoteServers\bin\Debug\RemoteServers.pdb
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.3.2\RemoteServers\bin\Debug\ControlDashboard.exe
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.3.2\RemoteServers\bin\Debug\ControlDashboard.pdb
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.3.2\RemoteServers\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.3.2\RemoteServers\obj\x86\Debug\MainWindow.baml
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.3.2\RemoteServers\obj\x86\Debug\MainWindow.g.cs
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.3.2\RemoteServers\obj\x86\Debug\App.g.cs
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.3.2\RemoteServers\obj\x86\Debug\RemoteServers_MarkupCompile.cache
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.3.2\RemoteServers\obj\x86\Debug\RemoteServers.g.resources
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.3.2\RemoteServers\obj\x86\Debug\RemoteServers.Properties.Resources.resources
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.3.2\RemoteServers\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.3.2\RemoteServers\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.3.3\RemoteServers\obj\x86\Debug\RemoteServers.exe
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.3.3\RemoteServers\obj\x86\Debug\RemoteServers.pdb
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.3.3\RemoteServers\bin\Debug\RemoteServers.exe
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.3.3\RemoteServers\bin\Debug\RemoteServers.pdb
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.3.3\RemoteServers\bin\Debug\ControlDashboard.exe
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.3.3\RemoteServers\bin\Debug\ControlDashboard.pdb
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.3.3\RemoteServers\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.3.3\RemoteServers\obj\x86\Debug\MainWindow.baml
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.3.3\RemoteServers\obj\x86\Debug\MainWindow.g.cs
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.3.3\RemoteServers\obj\x86\Debug\App.g.cs
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.3.3\RemoteServers\obj\x86\Debug\RemoteServers_MarkupCompile.cache
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.3.3\RemoteServers\obj\x86\Debug\RemoteServers.g.resources
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.3.3\RemoteServers\obj\x86\Debug\RemoteServers.Properties.Resources.resources
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.3.3\RemoteServers\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.3.3\RemoteServers\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.4.0\RemoteServers\obj\x86\Debug\RemoteServers.exe
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.4.0\RemoteServers\obj\x86\Debug\RemoteServers.pdb
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.4.0\RemoteServers\bin\Debug\RemoteServers.exe
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.4.0\RemoteServers\bin\Debug\RemoteServers.pdb
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.4.0\RemoteServers\bin\Debug\ControlDashboard.exe
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.4.0\RemoteServers\bin\Debug\ControlDashboard.pdb
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.4.0\RemoteServers\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.4.0\RemoteServers\obj\x86\Debug\MainWindow.baml
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.4.0\RemoteServers\obj\x86\Debug\MainWindow.g.cs
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.4.0\RemoteServers\obj\x86\Debug\App.g.cs
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.4.0\RemoteServers\obj\x86\Debug\RemoteServers_MarkupCompile.cache
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.4.0\RemoteServers\obj\x86\Debug\RemoteServers.g.resources
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.4.0\RemoteServers\obj\x86\Debug\RemoteServers.Properties.Resources.resources
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.4.0\RemoteServers\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.4.0\RemoteServers\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.4.1\RemoteServers\obj\x86\Debug\RemoteServers.exe
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.2.4.1\RemoteServers\obj\x86\Debug\RemoteServers.pdb
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.3.0.1\RemoteServers\obj\x86\Debug\RemoteServers.exe
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.3.0.1\RemoteServers\obj\x86\Debug\RemoteServers.pdb
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.3.0.1\RemoteServers\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.3.0.1\RemoteServers\obj\x86\Debug\MainWindow.baml
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.3.0.1\RemoteServers\obj\x86\Debug\MainWindow.g.cs
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.3.0.1\RemoteServers\obj\x86\Debug\App.g.cs
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.3.0.1\RemoteServers\obj\x86\Debug\RemoteServers_MarkupCompile.cache
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.3.0.1\RemoteServers\obj\x86\Debug\RemoteServers.g.resources
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.3.0.1\RemoteServers\obj\x86\Debug\RemoteServers.Properties.Resources.resources
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.3.0.1\RemoteServers\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.3.0.1\RemoteServers\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.3.0.1\RemoteServers\bin\Debug\RemoteServers.exe
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.3.0.1\RemoteServers\bin\Debug\RemoteServers.pdb
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.3.0.1\RemoteServers\bin\Debug\ControlDashboard.exe
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.3.0.1\RemoteServers\bin\Debug\ControlDashboard.pdb
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.3.0.2\RemoteServers\obj\x86\Debug\RemoteServers.exe
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.3.0.2\RemoteServers\obj\x86\Debug\RemoteServers.pdb
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.3.0.2\RemoteServers\bin\Debug\RemoteServers.exe
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.3.0.2\RemoteServers\bin\Debug\RemoteServers.pdb
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.3.0.2\RemoteServers\bin\Debug\ControlDashboard.exe
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.3.0.2\RemoteServers\bin\Debug\ControlDashboard.pdb
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.3.0.2\RemoteServers\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.3.0.2\RemoteServers\obj\x86\Debug\MainWindow.baml
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.3.0.2\RemoteServers\obj\x86\Debug\MainWindow.g.cs
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.3.0.2\RemoteServers\obj\x86\Debug\App.g.cs
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.3.0.2\RemoteServers\obj\x86\Debug\RemoteServers_MarkupCompile.cache
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.3.0.2\RemoteServers\obj\x86\Debug\RemoteServers.g.resources
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.3.0.2\RemoteServers\obj\x86\Debug\RemoteServers.Properties.Resources.resources
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.3.0.2\RemoteServers\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.3.0.2\RemoteServers\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.3.0.3\RemoteServers\obj\x86\Debug\RemoteServers.exe
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.3.0.3\RemoteServers\obj\x86\Debug\RemoteServers.pdb
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.3.0.3\RemoteServers\bin\Debug\RemoteServers.exe
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.3.0.3\RemoteServers\bin\Debug\RemoteServers.pdb
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.3.0.3\RemoteServers\bin\Debug\ControlDashboard.pdb
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.3.0.3\RemoteServers\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.3.0.3\RemoteServers\obj\x86\Debug\MainWindow.baml
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.3.0.3\RemoteServers\obj\x86\Debug\MainWindow.g.cs
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.3.0.3\RemoteServers\obj\x86\Debug\App.g.cs
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.3.0.3\RemoteServers\obj\x86\Debug\RemoteServers_MarkupCompile.cache
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.3.0.3\RemoteServers\obj\x86\Debug\RemoteServers.g.resources
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.3.0.3\RemoteServers\obj\x86\Debug\RemoteServers.Properties.Resources.resources
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.3.0.3\RemoteServers\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.3.0.3\RemoteServers\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.4.0.0\RemoteServers\obj\x86\Debug\RemoteServers.exe
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.4.0.0\RemoteServers\obj\x86\Debug\RemoteServers.pdb
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.4.0.0\RemoteServers\bin\Debug\RemoteServers.exe
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.4.0.0\RemoteServers\bin\Debug\RemoteServers.pdb
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.4.0.0\RemoteServers\bin\Debug\ControlDashboard.pdb
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.4.0.0\RemoteServers\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.4.0.0\RemoteServers\obj\x86\Debug\MainWindow.baml
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.4.0.0\RemoteServers\obj\x86\Debug\MainWindow.g.cs
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.4.0.0\RemoteServers\obj\x86\Debug\App.g.cs
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.4.0.0\RemoteServers\obj\x86\Debug\RemoteServers_MarkupCompile.cache
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.4.0.0\RemoteServers\obj\x86\Debug\RemoteServers.g.resources
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.4.0.0\RemoteServers\obj\x86\Debug\RemoteServers.Properties.Resources.resources
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.4.0.0\RemoteServers\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.4.0.0\RemoteServers\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.4.0.1\RemoteServers\obj\x86\Debug\RemoteServers.exe
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.4.0.1\RemoteServers\obj\x86\Debug\RemoteServers.pdb
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.4.0.1\RemoteServers\bin\Debug\RemoteServers.exe
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.4.0.1\RemoteServers\bin\Debug\RemoteServers.pdb
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.4.0.1\RemoteServers\bin\Debug\ControlDashboard.pdb
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.4.0.1\RemoteServers\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.4.0.1\RemoteServers\obj\x86\Debug\MainWindow.baml
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.4.0.1\RemoteServers\obj\x86\Debug\MainWindow.g.cs
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.4.0.1\RemoteServers\obj\x86\Debug\App.g.cs
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.4.0.1\RemoteServers\obj\x86\Debug\RemoteServers_MarkupCompile.cache
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.4.0.1\RemoteServers\obj\x86\Debug\RemoteServers.g.resources
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.4.0.1\RemoteServers\obj\x86\Debug\RemoteServers.Properties.Resources.resources
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.4.0.1\RemoteServers\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.4.0.1\RemoteServers\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.4.1.1\RemoteServers\obj\x86\Debug\RemoteServers.exe
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.4.1.1\RemoteServers\obj\x86\Debug\RemoteServers.pdb
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.4.1.1\RemoteServers\bin\Debug\RemoteServers.exe
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.4.1.1\RemoteServers\bin\Debug\RemoteServers.pdb
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.4.1.1\RemoteServers\bin\Debug\ControlDashboard.pdb
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.4.1.1\RemoteServers\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.4.1.1\RemoteServers\obj\x86\Debug\MainWindow.baml
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.4.1.1\RemoteServers\obj\x86\Debug\MainWindow.g.cs
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.4.1.1\RemoteServers\obj\x86\Debug\App.g.cs
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.4.1.1\RemoteServers\obj\x86\Debug\RemoteServers_MarkupCompile.cache
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.4.1.1\RemoteServers\obj\x86\Debug\RemoteServers.g.resources
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.4.1.1\RemoteServers\obj\x86\Debug\RemoteServers.Properties.Resources.resources
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.4.1.1\RemoteServers\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.4.1.1\RemoteServers\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.5.0.0\RemoteServers\obj\x86\Debug\RemoteServers.exe
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.5.0.0\RemoteServers\obj\x86\Debug\RemoteServers.pdb
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.5.0.0\RemoteServers\bin\Debug\RemoteServers.exe
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.5.0.0\RemoteServers\bin\Debug\RemoteServers.pdb
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.5.0.0\RemoteServers\bin\Debug\ControlDashboard.pdb
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.5.0.0\RemoteServers\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.5.0.0\RemoteServers\obj\x86\Debug\MainWindow.baml
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.5.0.0\RemoteServers\obj\x86\Debug\MainWindow.g.cs
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.5.0.0\RemoteServers\obj\x86\Debug\App.g.cs
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.5.0.0\RemoteServers\obj\x86\Debug\RemoteServers_MarkupCompile.cache
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.5.0.0\RemoteServers\obj\x86\Debug\RemoteServers.g.resources
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.5.0.0\RemoteServers\obj\x86\Debug\RemoteServers.Properties.Resources.resources
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.5.0.0\RemoteServers\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.5.0.0\RemoteServers\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.5.0.1\RemoteServers\obj\x86\Debug\RemoteServers.exe
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.5.0.1\RemoteServers\obj\x86\Debug\RemoteServers.pdb
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.5.0.1\RemoteServers\bin\Debug\RemoteServers.exe
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.5.0.1\RemoteServers\bin\Debug\RemoteServers.pdb
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.5.0.1\RemoteServers\bin\Debug\ControlDashboard.pdb
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.5.0.1\RemoteServers\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.5.0.1\RemoteServers\obj\x86\Debug\MainWindow.baml
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.5.0.1\RemoteServers\obj\x86\Debug\MainWindow.g.cs
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.5.0.1\RemoteServers\obj\x86\Debug\App.g.cs
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.5.0.1\RemoteServers\obj\x86\Debug\RemoteServers_MarkupCompile.cache
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.5.0.1\RemoteServers\obj\x86\Debug\RemoteServers.g.resources
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.5.0.1\RemoteServers\obj\x86\Debug\RemoteServers.Properties.Resources.resources
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.5.0.1\RemoteServers\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.5.0.1\RemoteServers\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.5.1.1\RemoteServers\obj\x86\Debug\RemoteServers.exe
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.5.1.1\RemoteServers\obj\x86\Debug\RemoteServers.pdb
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.5.1.1\RemoteServers\bin\Debug\RemoteServers.exe
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.5.1.1\RemoteServers\bin\Debug\RemoteServers.pdb
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.5.1.1\RemoteServers\bin\Debug\ControlDashboard.pdb
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.5.1.1\RemoteServers\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.5.1.1\RemoteServers\obj\x86\Debug\MainWindow.baml
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.5.1.1\RemoteServers\obj\x86\Debug\MainWindow.g.cs
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.5.1.1\RemoteServers\obj\x86\Debug\App.g.cs
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.5.1.1\RemoteServers\obj\x86\Debug\RemoteServers_MarkupCompile.cache
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.5.1.1\RemoteServers\obj\x86\Debug\RemoteServers.g.resources
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.5.1.1\RemoteServers\obj\x86\Debug\RemoteServers.Properties.Resources.resources
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.5.1.1\RemoteServers\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.5.1.1\RemoteServers\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.5.2.0\RemoteServers\obj\x86\Debug\RemoteServers.exe
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.5.2.0\RemoteServers\obj\x86\Debug\RemoteServers.pdb
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.5.2.0\RemoteServers\bin\Debug\RemoteServers.exe
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.5.2.0\RemoteServers\bin\Debug\RemoteServers.pdb
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.5.2.0\RemoteServers\bin\Debug\ControlDashboard.pdb
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.5.2.0\RemoteServers\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.5.2.0\RemoteServers\obj\x86\Debug\MainWindow.baml
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.5.2.0\RemoteServers\obj\x86\Debug\MainWindow.g.cs
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.5.2.0\RemoteServers\obj\x86\Debug\App.g.cs
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.5.2.0\RemoteServers\obj\x86\Debug\RemoteServers_MarkupCompile.cache
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.5.2.0\RemoteServers\obj\x86\Debug\RemoteServers.g.resources
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.5.2.0\RemoteServers\obj\x86\Debug\RemoteServers.Properties.Resources.resources
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.5.2.0\RemoteServers\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.5.2.0\RemoteServers\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.5.3.0\RemoteServers\obj\x86\Debug\RemoteServers.exe
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.5.3.0\RemoteServers\obj\x86\Debug\RemoteServers.pdb
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.5.3.2\RemoteServers\obj\x86\Debug\RemoteServers.exe
+F:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.5.3.2\RemoteServers\obj\x86\Debug\RemoteServers.pdb
+H:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.6.0.0\RemoteServers\obj\x86\Debug\RemoteServers.exe
+H:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.6.0.0\RemoteServers\obj\x86\Debug\RemoteServers.pdb
+H:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.6.0.0\RemoteServers\bin\Debug\RemoteServers.exe
+H:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.6.0.0\RemoteServers\bin\Debug\RemoteServers.pdb
+H:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.6.0.0\RemoteServers\obj\x86\Debug\RemoteServers.csprojResolveAssemblyReference.cache
+H:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.6.0.0\RemoteServers\obj\x86\Debug\MainWindow.baml
+H:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.6.0.0\RemoteServers\obj\x86\Debug\MainWindow.g.cs
+H:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.6.0.0\RemoteServers\obj\x86\Debug\App.g.cs
+H:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.6.0.0\RemoteServers\obj\x86\Debug\RemoteServers_MarkupCompile.cache
+H:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.6.0.0\RemoteServers\obj\x86\Debug\RemoteServers.g.resources
+H:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.6.0.0\RemoteServers\obj\x86\Debug\RemoteServers.Properties.Resources.resources
+H:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.6.0.0\RemoteServers\obj\x86\Debug\RemoteServers.csproj.GenerateResource.Cache
+H:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.6.0.1\RemoteServers\obj\x86\Debug\RemoteServers.exe
+H:\_Programming\Mehdi Projects\WPF\Control Dashboard\RemoteServers_0.6.0.1\RemoteServers\obj\x86\Debug\RemoteServers.pdb
+H:\_2012-10\_MehdiProjects_VS2012\WPF\Control Dashboard\RemoteServers_0.6.0.1\RemoteServers\obj\x86\Debug\RemoteServers.exe
+H:\_2012-10\_MehdiProjects_VS2012\WPF\Control Dashboard\RemoteServers_0.6.0.1\RemoteServers\obj\x86\Debug\RemoteServers.pdb
+H:\_2012-10\_MehdiProjects_VS2012\WPF\Control Dashboard\RemoteServers_0.6.0.1\RemoteServers\bin\Debug\RemoteServers.exe
+H:\_2012-10\_MehdiProjects_VS2012\WPF\Control Dashboard\RemoteServers_0.6.0.1\RemoteServers\bin\Debug\RemoteServers.pdb
+H:\_2012-10\_MehdiProjects_VS2012\WPF\Control Dashboard\RemoteServers_0.6.0.1\RemoteServers\obj\x86\Debug\RemoteServers.csprojResolveAssemblyReference.cache
+H:\_2012-10\_MehdiProjects_VS2012\WPF\Control Dashboard\RemoteServers_0.6.0.1\RemoteServers\obj\x86\Debug\MainWindow.baml
+H:\_2012-10\_MehdiProjects_VS2012\WPF\Control Dashboard\RemoteServers_0.6.0.1\RemoteServers\obj\x86\Debug\MainWindow.g.cs
+H:\_2012-10\_MehdiProjects_VS2012\WPF\Control Dashboard\RemoteServers_0.6.0.1\RemoteServers\obj\x86\Debug\App.g.cs
+H:\_2012-10\_MehdiProjects_VS2012\WPF\Control Dashboard\RemoteServers_0.6.0.1\RemoteServers\obj\x86\Debug\RemoteServers_MarkupCompile.cache
+H:\_2012-10\_MehdiProjects_VS2012\WPF\Control Dashboard\RemoteServers_0.6.0.1\RemoteServers\obj\x86\Debug\RemoteServers.g.resources
+H:\_2012-10\_MehdiProjects_VS2012\WPF\Control Dashboard\RemoteServers_0.6.0.1\RemoteServers\obj\x86\Debug\RemoteServers.Properties.Resources.resources
+H:\_2012-10\_MehdiProjects_VS2012\WPF\Control Dashboard\RemoteServers_0.6.0.1\RemoteServers\obj\x86\Debug\RemoteServers.csproj.GenerateResource.Cache
+H:\_2012-10\_MehdiProjects_VS2012\WPF\Control Dashboard\RemoteServers_0.6.1.1\RemoteServers\obj\x86\Debug\RemoteServers.exe
+H:\_2012-10\_MehdiProjects_VS2012\WPF\Control Dashboard\RemoteServers_0.6.1.1\RemoteServers\obj\x86\Debug\RemoteServers.pdb
+H:\_2012-10\_MehdiProjects_VS2012\WPF\Control Dashboard\RemoteServers_0.6.1.1\RemoteServers\bin\Debug\RemoteServers.exe
+H:\_2012-10\_MehdiProjects_VS2012\WPF\Control Dashboard\RemoteServers_0.6.1.1\RemoteServers\bin\Debug\RemoteServers.pdb
+H:\_2012-10\_MehdiProjects_VS2012\WPF\Control Dashboard\RemoteServers_0.6.1.1\RemoteServers\obj\x86\Debug\RemoteServers.csprojResolveAssemblyReference.cache
+H:\_2012-10\_MehdiProjects_VS2012\WPF\Control Dashboard\RemoteServers_0.6.1.1\RemoteServers\obj\x86\Debug\MainWindow.baml
+H:\_2012-10\_MehdiProjects_VS2012\WPF\Control Dashboard\RemoteServers_0.6.1.1\RemoteServers\obj\x86\Debug\MainWindow.g.cs
+H:\_2012-10\_MehdiProjects_VS2012\WPF\Control Dashboard\RemoteServers_0.6.1.1\RemoteServers\obj\x86\Debug\App.g.cs
+H:\_2012-10\_MehdiProjects_VS2012\WPF\Control Dashboard\RemoteServers_0.6.1.1\RemoteServers\obj\x86\Debug\RemoteServers_MarkupCompile.cache
+H:\_2012-10\_MehdiProjects_VS2012\WPF\Control Dashboard\RemoteServers_0.6.1.1\RemoteServers\obj\x86\Debug\RemoteServers.g.resources
+H:\_2012-10\_MehdiProjects_VS2012\WPF\Control Dashboard\RemoteServers_0.6.1.1\RemoteServers\obj\x86\Debug\RemoteServers.Properties.Resources.resources
+H:\_2012-10\_MehdiProjects_VS2012\WPF\Control Dashboard\RemoteServers_0.6.1.1\RemoteServers\obj\x86\Debug\RemoteServers.csproj.GenerateResource.Cache
+I:\_2012-11\MehdiProjects\WPF\ControlCenter\RemoteServers_0.6.4.0 - (ActiveDirectory)\RemoteServers\obj\x86\Debug\RemoteServers.exe
+I:\_2012-11\MehdiProjects\WPF\ControlCenter\RemoteServers_0.6.4.0 - (ActiveDirectory)\RemoteServers\obj\x86\Debug\RemoteServers.pdb
+I:\_2012-11\MehdiProjects\WPF\ControlCenter\RemoteServers_0.6.4.0 - (ActiveDirectory)\RemoteServers\bin\Debug\RemoteServers.exe
+I:\_2012-11\MehdiProjects\WPF\ControlCenter\RemoteServers_0.6.4.0 - (ActiveDirectory)\RemoteServers\bin\Debug\RemoteServers.pdb
+I:\_2012-11\MehdiProjects\WPF\ControlCenter\RemoteServers_0.6.4.0 - (ActiveDirectory)\RemoteServers\obj\x86\Debug\RemoteServers.csprojResolveAssemblyReference.cache
+I:\_2012-11\MehdiProjects\WPF\ControlCenter\RemoteServers_0.6.4.0 - (ActiveDirectory)\RemoteServers\obj\x86\Debug\MainWindow.baml
+I:\_2012-11\MehdiProjects\WPF\ControlCenter\RemoteServers_0.6.4.0 - (ActiveDirectory)\RemoteServers\obj\x86\Debug\MainWindow.g.cs
+I:\_2012-11\MehdiProjects\WPF\ControlCenter\RemoteServers_0.6.4.0 - (ActiveDirectory)\RemoteServers\obj\x86\Debug\App.g.cs
+I:\_2012-11\MehdiProjects\WPF\ControlCenter\RemoteServers_0.6.4.0 - (ActiveDirectory)\RemoteServers\obj\x86\Debug\RemoteServers_MarkupCompile.cache
+I:\_2012-11\MehdiProjects\WPF\ControlCenter\RemoteServers_0.6.4.0 - (ActiveDirectory)\RemoteServers\obj\x86\Debug\RemoteServers.g.resources
+I:\_2012-11\MehdiProjects\WPF\ControlCenter\RemoteServers_0.6.4.0 - (ActiveDirectory)\RemoteServers\obj\x86\Debug\RemoteServers.Properties.Resources.resources
+I:\_2012-11\MehdiProjects\WPF\ControlCenter\RemoteServers_0.6.4.0 - (ActiveDirectory)\RemoteServers\obj\x86\Debug\RemoteServers.csproj.GenerateResource.Cache
+I:\_2012-11\MehdiProjects\WPF\ControlCenter\RemoteServers_0.6.4.1 - (ActiveDirectory)(NoPass)(B) - Copy\RemoteServers\obj\x86\Debug\RemoteServers.exe
+I:\_2012-11\MehdiProjects\WPF\ControlCenter\RemoteServers_0.6.4.1 - (ActiveDirectory)(NoPass)(B) - Copy\RemoteServers\obj\x86\Debug\RemoteServers.pdb
+I:\_2012-11\MehdiProjects\WPF\ControlCenter\RemoteServers_0.6.4.1 - (ActiveDirectory)(NoPass)(B) - Copy\RemoteServers\bin\Debug\RemoteServers.exe
+I:\_2012-11\MehdiProjects\WPF\ControlCenter\RemoteServers_0.6.4.1 - (ActiveDirectory)(NoPass)(B) - Copy\RemoteServers\bin\Debug\RemoteServers.pdb
+I:\_2012-11\MehdiProjects\WPF\ControlCenter\RemoteServers_0.6.4.1 - (ActiveDirectory)(NoPass)(B) - Copy\RemoteServers\obj\x86\Debug\RemoteServers.csprojResolveAssemblyReference.cache
+I:\_2012-11\MehdiProjects\WPF\ControlCenter\RemoteServers_0.6.4.1 - (ActiveDirectory)(NoPass)(B) - Copy\RemoteServers\obj\x86\Debug\MainWindow.baml
+I:\_2012-11\MehdiProjects\WPF\ControlCenter\RemoteServers_0.6.4.1 - (ActiveDirectory)(NoPass)(B) - Copy\RemoteServers\obj\x86\Debug\MainWindow.g.cs
+I:\_2012-11\MehdiProjects\WPF\ControlCenter\RemoteServers_0.6.4.1 - (ActiveDirectory)(NoPass)(B) - Copy\RemoteServers\obj\x86\Debug\App.g.cs
+I:\_2012-11\MehdiProjects\WPF\ControlCenter\RemoteServers_0.6.4.1 - (ActiveDirectory)(NoPass)(B) - Copy\RemoteServers\obj\x86\Debug\RemoteServers_MarkupCompile.cache
+I:\_2012-11\MehdiProjects\WPF\ControlCenter\RemoteServers_0.6.4.1 - (ActiveDirectory)(NoPass)(B) - Copy\RemoteServers\obj\x86\Debug\RemoteServers.g.resources
+I:\_2012-11\MehdiProjects\WPF\ControlCenter\RemoteServers_0.6.4.1 - (ActiveDirectory)(NoPass)(B) - Copy\RemoteServers\obj\x86\Debug\RemoteServers.Properties.Resources.resources
+I:\_2012-11\MehdiProjects\WPF\ControlCenter\RemoteServers_0.6.4.1 - (ActiveDirectory)(NoPass)(B) - Copy\RemoteServers\obj\x86\Debug\RemoteServers.csproj.GenerateResource.Cache
+I:\_2012-11\MehdiProjects\WPF\ControlCenter\RemoteServers_0.6.4.2 - (ActiveDirectory)(NoPass)(B) - Copy - Copy\RemoteServers\obj\x86\Debug\RemoteServers.exe
+I:\_2012-11\MehdiProjects\WPF\ControlCenter\RemoteServers_0.6.4.2 - (ActiveDirectory)(NoPass)(B) - Copy - Copy\RemoteServers\obj\x86\Debug\RemoteServers.pdb
+I:\_2012-11\MehdiProjects\WPF\ControlCenter\RemoteServers_0.6.4.2 - (ActiveDirectory)(NoPass)(B) - Copy - Copy\RemoteServers\bin\Debug\RemoteServers.exe
+I:\_2012-11\MehdiProjects\WPF\ControlCenter\RemoteServers_0.6.4.2 - (ActiveDirectory)(NoPass)(B) - Copy - Copy\RemoteServers\bin\Debug\RemoteServers.pdb
+I:\_2012-11\MehdiProjects\WPF\ControlCenter\RemoteServers_0.6.4.2 - (ActiveDirectory)(NoPass)(B) - Copy - Copy\RemoteServers\obj\x86\Debug\RemoteServers.csprojResolveAssemblyReference.cache
+I:\_2012-11\MehdiProjects\WPF\ControlCenter\RemoteServers_0.6.4.2 - (ActiveDirectory)(NoPass)(B) - Copy - Copy\RemoteServers\obj\x86\Debug\MainWindow.baml
+I:\_2012-11\MehdiProjects\WPF\ControlCenter\RemoteServers_0.6.4.2 - (ActiveDirectory)(NoPass)(B) - Copy - Copy\RemoteServers\obj\x86\Debug\MainWindow.g.cs
+I:\_2012-11\MehdiProjects\WPF\ControlCenter\RemoteServers_0.6.4.2 - (ActiveDirectory)(NoPass)(B) - Copy - Copy\RemoteServers\obj\x86\Debug\App.g.cs
+I:\_2012-11\MehdiProjects\WPF\ControlCenter\RemoteServers_0.6.4.2 - (ActiveDirectory)(NoPass)(B) - Copy - Copy\RemoteServers\obj\x86\Debug\RemoteServers_MarkupCompile.cache
+I:\_2012-11\MehdiProjects\WPF\ControlCenter\RemoteServers_0.6.4.2 - (ActiveDirectory)(NoPass)(B) - Copy - Copy\RemoteServers\obj\x86\Debug\RemoteServers.g.resources
+I:\_2012-11\MehdiProjects\WPF\ControlCenter\RemoteServers_0.6.4.2 - (ActiveDirectory)(NoPass)(B) - Copy - Copy\RemoteServers\obj\x86\Debug\RemoteServers.Properties.Resources.resources
+I:\_2012-11\MehdiProjects\WPF\ControlCenter\RemoteServers_0.6.4.2 - (ActiveDirectory)(NoPass)(B) - Copy - Copy\RemoteServers\obj\x86\Debug\RemoteServers.csproj.GenerateResource.Cache
+F:\_SyncHD\Mehdi Programming\Mehdi Projects\WPF\ControlCenter\RemoteServers_0.6.4.2 - (ActiveDirectory)(NoPass)(B)\RemoteServers\obj\x86\Debug\RemoteServers.exe
+F:\_SyncHD\Mehdi Programming\Mehdi Projects\WPF\ControlCenter\RemoteServers_0.6.4.2 - (ActiveDirectory)(NoPass)(B)\RemoteServers\obj\x86\Debug\RemoteServers.pdb
+I:\__MehdiProjects_2012-12-31\WPF\Control Center\ControlCenter_0.6.4.3 - (ActiveDirectory)(NoPass)(B) - Copy\RemoteServers\obj\x86\Debug\RemoteServers.exe
+I:\__MehdiProjects_2012-12-31\WPF\Control Center\ControlCenter_0.6.4.3 - (ActiveDirectory)(NoPass)(B) - Copy\RemoteServers\obj\x86\Debug\RemoteServers.pdb
+I:\__MehdiProjects_2012-12-31\WPF\Control Center\ControlCenter_0.6.4.3 - (ActiveDirectory)(NoPass)(B) - Copy\RemoteServers\bin\Debug\RemoteServers.exe
+I:\__MehdiProjects_2012-12-31\WPF\Control Center\ControlCenter_0.6.4.3 - (ActiveDirectory)(NoPass)(B) - Copy\RemoteServers\bin\Debug\RemoteServers.pdb
+I:\__MehdiProjects_2012-12-31\WPF\Control Center\ControlCenter_0.6.4.3 - (ActiveDirectory)(NoPass)(B) - Copy\RemoteServers\obj\x86\Debug\RemoteServers.csprojResolveAssemblyReference.cache
+I:\__MehdiProjects_2012-12-31\WPF\Control Center\ControlCenter_0.6.4.3 - (ActiveDirectory)(NoPass)(B) - Copy\RemoteServers\obj\x86\Debug\MainWindow.baml
+I:\__MehdiProjects_2012-12-31\WPF\Control Center\ControlCenter_0.6.4.3 - (ActiveDirectory)(NoPass)(B) - Copy\RemoteServers\obj\x86\Debug\MainWindow.g.cs
+I:\__MehdiProjects_2012-12-31\WPF\Control Center\ControlCenter_0.6.4.3 - (ActiveDirectory)(NoPass)(B) - Copy\RemoteServers\obj\x86\Debug\App.g.cs
+I:\__MehdiProjects_2012-12-31\WPF\Control Center\ControlCenter_0.6.4.3 - (ActiveDirectory)(NoPass)(B) - Copy\RemoteServers\obj\x86\Debug\RemoteServers_MarkupCompile.cache
+I:\__MehdiProjects_2012-12-31\WPF\Control Center\ControlCenter_0.6.4.3 - (ActiveDirectory)(NoPass)(B) - Copy\RemoteServers\obj\x86\Debug\RemoteServers.g.resources
+I:\__MehdiProjects_2012-12-31\WPF\Control Center\ControlCenter_0.6.4.3 - (ActiveDirectory)(NoPass)(B) - Copy\RemoteServers\obj\x86\Debug\RemoteServers.Properties.Resources.resources
+I:\__MehdiProjects_2012-12-31\WPF\Control Center\ControlCenter_0.6.4.3 - (ActiveDirectory)(NoPass)(B) - Copy\RemoteServers\obj\x86\Debug\RemoteServers.csproj.GenerateResource.Cache
